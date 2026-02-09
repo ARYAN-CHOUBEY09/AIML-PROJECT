@@ -1,67 +1,73 @@
-1. ML-Based Stroke Risk Prediction
+🌟 AIML — Advanced Machine Learning Projects (Premium Collection)
 
-Stroke detection model built using statistical data + ML algorithms.
+A curated collection of Machine Learning, Data Analysis, and AI-Driven projects developed by Aryan Choubey, covering real-world datasets, predictive modeling, vector search, and intelligent data pipelines.
 
-🔍 Features
+This repository is a complete learning + implementation hub for ML enthusiasts and developers.
 
-Data preprocessing & cleaning
+🚀 Projects Included
+1️⃣ ML-Based Stroke Risk Prediction
 
-Feature engineering
+A healthcare ML system that predicts a person’s stroke risk using clinical and demographic variables.
+Built with clean EDA, balanced datasets, and high-accuracy models.
 
-Model training (RandomForest, SVM, Logistic Regression etc.)
+🔹 Features
 
-Performance evaluation
+Complete data preprocessing pipeline
 
-Result visualization graphs
+Outlier removal & correlation analysis
 
-🛠 Used Technologies
+Multiple ML algorithms comparison
 
-Python
+Accuracy, precision, recall reports
 
-Pandas, NumPy
+Highly visual graph-based insights
 
-Scikit-Learn
+🔹 Tech Used
 
-Matplotlib, Seaborn
+Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
 
-2. Stock Trend Analyzer
+2️⃣ Stock Trend Analyzer (with FAISS)
 
-A stock analysis tool that predicts trend direction using ML + vector search.
+A smart stock-movement analyzer combining ML models + Vector Search to detect trend patterns using financial datasets.
 
-🔍 Features
+🔹 Features
 
-CSV-based financial dataset
+Price-trend detection
 
-Embedding generation
+Embeddings generation for stock text
 
-FAISS-based similarity search
+FAISS vector search
 
-Stock movement analysis
+Similar trend retrieval
 
-Interactive notebooks
+Notebook-based data exploration
 
-🛠 Technologies
+🔹 Tech Used
 
-Python
-
-FAISS
-
-LangChain
-
-Matplotlib
-
-Pandas, NumPy
+Python • FAISS • LangChain • Pandas • NumPy • Matplotlib
 
 🧠 Tech Stack
-
-Programming: Python
-
-ML Libraries: Numpy, Pandas, Scikit-Learn
-
-Visualization: Matplotlib, Seaborn
-
-Vector Search: FAISS
-
-Jupyter Notebook
-
-Data Preprocessing Pipelines
+Category	Tools
+Programming	Python
+ML Libraries	Pandas, NumPy, Scikit-Learn
+Vector Search	FAISS
+Data Viz	Matplotlib, Seaborn
+Environments	Jupyter Notebook
+📂 Directory Structure
+AIML/
+│
+├── ML-Based Stroke Risk Prediction/
+│   ├── dataset/
+│   ├── eda/
+│   ├── models/
+│   ├── notebook/
+│   └── results/
+│
+├── Stock Trend Analyzer/
+│   ├── data/
+│   ├── src/
+│   ├── notebook/
+│   ├── faiss/
+│   └── analysis/
+│
+└── README.md
