@@ -24,7 +24,7 @@ Highly visual graph-based insights
 
 🔹 Tech Used
 
-Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
+Python • Pandas • NumPy • Scikit-Learn  • Seaborn
 
 2️⃣ Stock Trend Analyzer (with FAISS)
 
@@ -44,7 +44,7 @@ Notebook-based data exploration
 
 🔹 Tech Used
 
-Python • FAISS • LangChain • Pandas • NumPy • Matplotlib
+Python • FAISS • LangChain • Pandas • NumPy 
 
 🧠 Tech Stack
 Category	Tools
